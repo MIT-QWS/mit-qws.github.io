@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: MIT Quantum Winter School 2026
-description: Teaching a Quantum of Quantum Computing to undergraduate students in the Boston area. Instructors: Cora Barrett (MIT Physics), Om Joshi (MIT RLE), Ági Villányi (MIT CSAIL), Matthew Yeh (Harvard SEAS).
+description: Teaching a Quantum of Quantum Computing to undergraduate students in the Boston area. Instructors: Cora Barrett (MIT Physics), Om Joshi (MIT RLE), Agi Villanyi (MIT CSAIL), Matthew Yeh (Harvard SEAS).
