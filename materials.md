@@ -1,7 +1,3 @@
-<img src="{{ site.baseurl }}/assets/images/course-banner.png"
-     alt="MIT Quantum Winter School banner"
-     style="max-width:100%; height:auto; margin: 0 0 1rem 0;"/>
-
 # Course Materials
 
 ## Day 1: Superposition
