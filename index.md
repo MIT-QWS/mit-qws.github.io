@@ -1,1 +1,1 @@
-- [Course Materials](/materials)
+{% include_relative materials.md %}
