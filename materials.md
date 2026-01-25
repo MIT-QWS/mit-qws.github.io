@@ -10,4 +10,4 @@
 ### What is entanglement and how can we harness it for computation? Today we will go over the Bell basis states and Bell basis measurements. We will also cover the CHSH game and, as a preview for tomorrow, Grover's algorithm. Lecturers: Ági Villányi. ([notes](/entanglement-notes-2026.pdf))([lecture video](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f832afb9-efd3-4a75-a7b6-b3d701223a64))
 
 ## Day 4: Algorithms and Applications
-### What will we use quantum computers for once they exist? Today, we go through Shor's algorithm and the basics of quantum simulation. Lecturers: Cora Barrett.
+### What will we use quantum computers for once they exist? Today, we go through Shor's algorithm and the basics of quantum simulation. Lecturers: Cora Barrett. ([notes](/applications-notes-2026.pdf))([lecture video](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e81810b6-895a-4d7e-ab55-b3d701227e1d))
